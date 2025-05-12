@@ -1,0 +1,6 @@
+@Vaccination_Portal_Backend_HostAddress = http://localhost:5210
+
+GET {{Vaccination_Portal_Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

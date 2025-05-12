@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LmcMBnuLwdIxRdWGSKPN0srHErAuG5ena1wCOL7Wrqk=",
+  "Source": "Vaccination Portal Backend",
+  "BasePath": "_content/Vaccination Portal Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
